@@ -167,3 +167,4 @@ Here is a list of properties available to customize your widget:
 ## Contributions
 
 Contributions of any kind are more than welcome! Feel free to fork and improve country_code_picker in any way you want, make a pull request, or open an issue.
+# country_code_picker-2.0.2
